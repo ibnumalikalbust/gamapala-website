@@ -1,0 +1,541 @@
+.row {
+	--bs-gutter-x: 0.5rem !important;
+	--bs-gutter-y: 0.5rem !important;
+}
+
+.opening {
+	background-image: url(main.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.landing {
+	background: linear-gradient(181deg, rgba(76, 133, 245, 0.38) -131.36%, #FFF 54.68%);
+}
+
+.pt-40-vh {
+	padding-top: 40vh;
+}
+
+.min-h-100-pc {
+	min-height: 100%;
+}
+
+.py-100-px {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.max-w-150-px {
+	max-width: 150px;
+}
+
+.fs-0-1-rem {
+	font-size: 0.1rem;
+}
+
+.fs-0-2-rem {
+	font-size: 0.2rem;
+}
+
+.fs-0-3-rem {
+	font-size: 0.3rem;
+}
+
+.fs-0-4-rem {
+	font-size: 0.4rem;
+}
+
+.fs-0-5-rem {
+	font-size: 0.5rem;
+}
+
+.fs-0-6-rem {
+	font-size: 0.6rem;
+}
+
+.fs-0-7-rem {
+	font-size: 0.7rem;
+}
+
+.fs-0-8-rem {
+	font-size: 0.8rem;
+}
+
+.fs-0-9-rem {
+	font-size: 0.9rem;
+}
+
+.fs-1-0-rem {
+	font-size: 1.0rem;
+}
+
+.fs-1-1-rem {
+	font-size: 1.1rem;
+}
+
+.fs-1-2-rem {
+	font-size: 1.2rem;
+}
+
+.fs-1-3-rem {
+	font-size: 1.3rem;
+}
+
+.fs-1-4-rem {
+	font-size: 1.4rem;
+}
+
+.fs-1-5-rem {
+	font-size: 1.5rem;
+}
+
+.fs-1-6-rem {
+	font-size: 1.6rem;
+}
+
+.fs-1-7-rem {
+	font-size: 1.7rem;
+}
+
+.fs-1-8-rem {
+	font-size: 1.8rem;
+}
+
+.fs-1-9-rem {
+	font-size: 1.9rem;
+}
+
+.fs-2-0-rem {
+	font-size: 2.0rem;
+}
+
+.text-color1 {
+	color: #004459;
+}
+
+.text-color2 {
+	color: #074FBB;
+}
+
+.text-color3 {
+	color: #181E4B;
+}
+
+.text-color4 {
+	color: #727171;
+}
+
+.position-tl-30-px {
+	top: 30px;
+	left: 30px;
+}
+
+@media (min-width: 576px) {
+	.sm-fs-0-1-rem {
+		font-size: 0.1rem;
+	}
+	.sm-fs-0-2-rem {
+		font-size: 0.2rem;
+	}
+	.sm-fs-0-3-rem {
+		font-size: 0.3rem;
+	}
+	.sm-fs-0-4-rem {
+		font-size: 0.4rem;
+	}
+	.sm-fs-0-5-rem {
+		font-size: 0.5rem;
+	}
+	.sm-fs-0-6-rem {
+		font-size: 0.6rem;
+	}
+	.sm-fs-0-7-rem {
+		font-size: 0.7rem;
+	}
+	.sm-fs-0-8-rem {
+		font-size: 0.8rem;
+	}
+	.sm-fs-0-9-rem {
+		font-size: 0.9rem;
+	}
+	.sm-fs-1-0-rem {
+		font-size: 1.0rem;
+	}
+	.sm-fs-1-1-rem {
+		font-size: 1.1rem;
+	}
+	.sm-fs-1-2-rem {
+		font-size: 1.2rem;
+	}
+	.sm-fs-1-3-rem {
+		font-size: 1.3rem;
+	}
+	.sm-fs-1-4-rem {
+		font-size: 1.4rem;
+	}
+	.sm-fs-1-5-rem {
+		font-size: 1.5rem;
+	}
+	.sm-fs-1-6-rem {
+		font-size: 1.6rem;
+	}
+	.sm-fs-1-7-rem {
+		font-size: 1.7rem;
+	}
+	.sm-fs-1-8-rem {
+		font-size: 1.8rem;
+	}
+	.sm-fs-1-9-rem {
+		font-size: 1.9rem;
+	}
+	.sm-fs-2-0-rem {
+		font-size: 2.0rem;
+	}
+	.sm-fs-2-1-rem {
+		font-size: 2.1rem;
+	}
+	.sm-fs-2-2-rem {
+		font-size: 2.2rem;
+	}
+	.sm-fs-2-3-rem {
+		font-size: 2.3rem;
+	}
+	.sm-fs-2-4-rem {
+		font-size: 2.4rem;
+	}
+	.sm-fs-2-5-rem {
+		font-size: 2.5rem;
+	}
+	.sm-fs-2-6-rem {
+		font-size: 2.6rem;
+	}
+	.sm-fs-2-7-rem {
+		font-size: 2.7rem;
+	}
+	.sm-fs-2-8-rem {
+		font-size: 2.8rem;
+	}
+	.sm-fs-2-9-rem {
+		font-size: 2.9rem;
+	}
+	.sm-fs-3-0-rem {
+		font-size: 3.0rem;
+	}
+}
+
+@media (min-width: 768px) {
+	.md-fs-0-1-rem {
+		font-size: 0.1rem;
+	}
+	.md-fs-0-2-rem {
+		font-size: 0.2rem;
+	}
+	.md-fs-0-3-rem {
+		font-size: 0.3rem;
+	}
+	.md-fs-0-4-rem {
+		font-size: 0.4rem;
+	}
+	.md-fs-0-5-rem {
+		font-size: 0.5rem;
+	}
+	.md-fs-0-6-rem {
+		font-size: 0.6rem;
+	}
+	.md-fs-0-7-rem {
+		font-size: 0.7rem;
+	}
+	.md-fs-0-8-rem {
+		font-size: 0.8rem;
+	}
+	.md-fs-0-9-rem {
+		font-size: 0.9rem;
+	}
+	.md-fs-1-0-rem {
+		font-size: 1.0rem;
+	}
+	.md-fs-1-1-rem {
+		font-size: 1.1rem;
+	}
+	.md-fs-1-2-rem {
+		font-size: 1.2rem;
+	}
+	.md-fs-1-3-rem {
+		font-size: 1.3rem;
+	}
+	.md-fs-1-4-rem {
+		font-size: 1.4rem;
+	}
+	.md-fs-1-5-rem {
+		font-size: 1.5rem;
+	}
+	.md-fs-1-6-rem {
+		font-size: 1.6rem;
+	}
+	.md-fs-1-7-rem {
+		font-size: 1.7rem;
+	}
+	.md-fs-1-8-rem {
+		font-size: 1.8rem;
+	}
+	.md-fs-1-9-rem {
+		font-size: 1.9rem;
+	}
+	.md-fs-2-0-rem {
+		font-size: 2.0rem;
+	}
+	.md-fs-2-1-rem {
+		font-size: 2.1rem;
+	}
+	.md-fs-2-2-rem {
+		font-size: 2.2rem;
+	}
+	.md-fs-2-3-rem {
+		font-size: 2.3rem;
+	}
+	.md-fs-2-4-rem {
+		font-size: 2.4rem;
+	}
+	.md-fs-2-5-rem {
+		font-size: 2.5rem;
+	}
+	.md-fs-2-6-rem {
+		font-size: 2.6rem;
+	}
+	.md-fs-2-7-rem {
+		font-size: 2.7rem;
+	}
+	.md-fs-2-8-rem {
+		font-size: 2.8rem;
+	}
+	.md-fs-2-9-rem {
+		font-size: 2.9rem;
+	}
+	.md-fs-3-0-rem {
+		font-size: 3.0rem;
+	}
+	.md-fs-3-5-rem {
+		font-size: 3.5rem;
+	}
+	.md-fs-4-0-rem {
+		font-size: 4.0rem;
+	}
+	.md-fs-4-5-rem {
+		font-size: 4.5rem;
+	}
+	.md-fs-5-0-rem {
+		font-size: 5.0rem;
+	}
+}
+
+@media (min-width: 992px) {
+	.lg-fs-0-1-rem {
+		font-size: 0.1rem;
+	}
+	.lg-fs-0-2-rem {
+		font-size: 0.2rem;
+	}
+	.lg-fs-0-3-rem {
+		font-size: 0.3rem;
+	}
+	.lg-fs-0-4-rem {
+		font-size: 0.4rem;
+	}
+	.lg-fs-0-5-rem {
+		font-size: 0.5rem;
+	}
+	.lg-fs-0-6-rem {
+		font-size: 0.6rem;
+	}
+	.lg-fs-0-7-rem {
+		font-size: 0.7rem;
+	}
+	.lg-fs-0-8-rem {
+		font-size: 0.8rem;
+	}
+	.lg-fs-0-9-rem {
+		font-size: 0.9rem;
+	}
+	.lg-fs-1-0-rem {
+		font-size: 1.0rem;
+	}
+	.lg-fs-1-1-rem {
+		font-size: 1.1rem;
+	}
+	.lg-fs-1-2-rem {
+		font-size: 1.2rem;
+	}
+	.lg-fs-1-3-rem {
+		font-size: 1.3rem;
+	}
+	.lg-fs-1-4-rem {
+		font-size: 1.4rem;
+	}
+	.lg-fs-1-5-rem {
+		font-size: 1.5rem;
+	}
+	.lg-fs-1-6-rem {
+		font-size: 1.6rem;
+	}
+	.lg-fs-1-7-rem {
+		font-size: 1.7rem;
+	}
+	.lg-fs-1-8-rem {
+		font-size: 1.8rem;
+	}
+	.lg-fs-1-9-rem {
+		font-size: 1.9rem;
+	}
+	.lg-fs-2-0-rem {
+		font-size: 2.0rem;
+	}
+	.lg-fs-2-1-rem {
+		font-size: 2.1rem;
+	}
+	.lg-fs-2-2-rem {
+		font-size: 2.2rem;
+	}
+	.lg-fs-2-3-rem {
+		font-size: 2.3rem;
+	}
+	.lg-fs-2-4-rem {
+		font-size: 2.4rem;
+	}
+	.lg-fs-2-5-rem {
+		font-size: 2.5rem;
+	}
+	.lg-fs-2-6-rem {
+		font-size: 2.6rem;
+	}
+	.lg-fs-2-7-rem {
+		font-size: 2.7rem;
+	}
+	.lg-fs-2-8-rem {
+		font-size: 2.8rem;
+	}
+	.lg-fs-2-9-rem {
+		font-size: 2.9rem;
+	}
+	.lg-fs-3-0-rem {
+		font-size: 3.0rem;
+	}
+	.lg-fs-3-5-rem {
+		font-size: 3.5rem;
+	}
+	.lg-fs-4-0-rem {
+		font-size: 4.0rem;
+	}
+	.lg-fs-4-5-rem {
+		font-size: 4.5rem;
+	}
+	.lg-fs-5-0-rem {
+		font-size: 5.0rem;
+	}
+}
+
+@media (min-width: 1200px) {
+	.xl-fs-0-1-rem {
+		font-size: 0.1rem;
+	}
+	.xl-fs-0-2-rem {
+		font-size: 0.2rem;
+	}
+	.xl-fs-0-3-rem {
+		font-size: 0.3rem;
+	}
+	.xl-fs-0-4-rem {
+		font-size: 0.4rem;
+	}
+	.xl-fs-0-5-rem {
+		font-size: 0.5rem;
+	}
+	.xl-fs-0-6-rem {
+		font-size: 0.6rem;
+	}
+	.xl-fs-0-7-rem {
+		font-size: 0.7rem;
+	}
+	.xl-fs-0-8-rem {
+		font-size: 0.8rem;
+	}
+	.xl-fs-0-9-rem {
+		font-size: 0.9rem;
+	}
+	.xl-fs-1-0-rem {
+		font-size: 1.0rem;
+	}
+	.xl-fs-1-1-rem {
+		font-size: 1.1rem;
+	}
+	.xl-fs-1-2-rem {
+		font-size: 1.2rem;
+	}
+	.xl-fs-1-3-rem {
+		font-size: 1.3rem;
+	}
+	.xl-fs-1-4-rem {
+		font-size: 1.4rem;
+	}
+	.xl-fs-1-5-rem {
+		font-size: 1.5rem;
+	}
+	.xl-fs-1-6-rem {
+		font-size: 1.6rem;
+	}
+	.xl-fs-1-7-rem {
+		font-size: 1.7rem;
+	}
+	.xl-fs-1-8-rem {
+		font-size: 1.8rem;
+	}
+	.xl-fs-1-9-rem {
+		font-size: 1.9rem;
+	}
+	.xl-fs-2-0-rem {
+		font-size: 2.0rem;
+	}
+	.xl-fs-2-1-rem {
+		font-size: 2.1rem;
+	}
+	.xl-fs-2-2-rem {
+		font-size: 2.2rem;
+	}
+	.xl-fs-2-3-rem {
+		font-size: 2.3rem;
+	}
+	.xl-fs-2-4-rem {
+		font-size: 2.4rem;
+	}
+	.xl-fs-2-5-rem {
+		font-size: 2.5rem;
+	}
+	.xl-fs-2-6-rem {
+		font-size: 2.6rem;
+	}
+	.xl-fs-2-7-rem {
+		font-size: 2.7rem;
+	}
+	.xl-fs-2-8-rem {
+		font-size: 2.8rem;
+	}
+	.xl-fs-2-9-rem {
+		font-size: 2.9rem;
+	}
+	.xl-fs-3-0-rem {
+		font-size: 3.0rem;
+	}
+	.xl-fs-3-5-rem {
+		font-size: 3.5rem;
+	}
+	.xl-fs-4-0-rem {
+		font-size: 4.0rem;
+	}
+	.xl-fs-4-5-rem {
+		font-size: 4.5rem;
+	}
+	.xl-fs-5-0-rem {
+		font-size: 5.0rem;
+	}
+}
